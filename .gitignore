@@ -1,0 +1,15 @@
+# CodeQL Installation
+codeql-home/
+
+# CodeQL Results
+codeql-results/
+
+# Environment setup
+setup-env.ps1
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
